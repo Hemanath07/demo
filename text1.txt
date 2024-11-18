@@ -1,1 +1,2 @@
 create text1.txt file.
+This is new line. Everyone should note down it.
